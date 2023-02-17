@@ -1,0 +1,101 @@
+ID,Nazev,Barva,Rozmer,Cena,Dostupnost
+1,Mikina bez kapuce,Zluta,XL,95,0
+2,Mikina bez kapsy,Zelena,M,142,1
+3,Mikina bez kapsy,Hneda,S,92,0
+4,Tricko s dlouhym rukavem,Fialova,XXL,140,1
+5,Mikina s kapuci,Zluta,M,66,1
+6,Tricko s logem,Modra,L,46,1
+7,Mikina s kapuci,Zluta,L,24,1
+8,Tricko s potiskem,Cerna,L,146,1
+9,Mikina s kapuci,Zluta,XXL,121,1
+10,Mikina bez kapsy,Oranzova,S,145,1
+11,Mikina s kapuci,Seda,L,138,1
+12,Mikina s kapuci,Bila,L,58,1
+13,Mikina bez kapsy,Zluta,S,39,0
+14,Mikina bez kapuce,Bila,XL,130,0
+15,Mikina s kapuci,Modra,M,58,0
+16,Tricko s logem,Zluta,M,104,1
+17,Tricko s dlouhym rukavem,Cerna,S,129,1
+18,Mikina bez kapuce,Modra,XXL,87,1
+19,Tricko s logem,Hneda,XXL,145,0
+20,Mikina bez kapuce,Seda,XL,41,0
+21,Mikina bez kapuce,Bila,XL,111,1
+22,Mikina s logem,Seda,M,127,1
+23,Tricko s logem,Zelena,XXL,33,0
+24,Tricko s logem,Cerna,L,48,1
+25,Tricko s logem,Fialova,XL,50,1
+26,Mikina s logem,Zluta,S,23,1
+27,Mikina s kapuci,Cerna,M,109,0
+28,Tricko s logem,Zluta,M,117,0
+29,Tricko s potiskem,Zluta,XL,146,1
+30,Mikina bez kapsy,Zluta,S,101,0
+31,Tricko s logem,Cerna,L,23,1
+32,Mikina s logem,Zluta,XXL,27,1
+33,Mikina bez kapuce,Hneda,M,115,1
+34,Tricko s dlouhym rukavem,Hneda,L,21,1
+35,Mikina bez kapsy,Zelena,S,58,1
+36,Mikina s logem,Zelena,XL,122,0
+37,Tricko s potiskem,Seda,S,132,0
+38,Tricko s logem,Fialova,L,75,1
+39,Tricko s dlouhym rukavem,Zelena,M,88,1
+40,Mikina s kapuci,Fialova,M,149,1
+41,Mikina s logem,Modra,XL,147,0
+42,Mikina s kapuci,Fialova,M,90,1
+43,Mikina bez kapsy,Fialova,XXL,132,0
+44,Mikina bez kapsy,Hneda,L,34,1
+45,Tricko s logem,Fialova,S,39,1
+46,Tricko s potiskem,Oranzova,XL,61,1
+47,Mikina s kapuci,Zelena,XXL,59,1
+48,Tricko s dlouhym rukavem,Zelena,M,60,0
+49,Tricko s logem,Zelena,XL,117,1
+50,Mikina bez kapsy,Hneda,L,66,0
+51,Mikina s logem,Cerna,XXL,120,1
+52,Mikina bez kapuce,Seda,S,70,1
+53,Tricko s dlouhym rukavem,Zelena,M,66,1
+54,Mikina s kapuci,Oranzova,S,27,1
+55,Tricko s potiskem,Cerna,XL,88,1
+56,Mikina s kapuci,Modra,L,34,0
+57,Mikina bez kapuce,Cerna,S,56,1
+58,Mikina bez kapuce,Fialova,L,36,0
+59,Mikina bez kapsy,Zelena,XXL,147,1
+60,Tricko s potiskem,Hneda,L,138,1
+61,Mikina bez kapuce,Fialova,S,140,0
+62,Mikina bez kapuce,Oranzova,M,34,1
+63,Mikina bez kapsy,Zluta,L,98,0
+64,Mikina s kapuci,Zluta,L,53,1
+65,Tricko s logem,Fialova,L,128,1
+66,Mikina s kapuci,Cerna,L,145,1
+67,Mikina s kapuci,Oranzova,L,62,1
+68,Mikina s kapuci,Zelena,M,54,1
+69,Mikina s kapuci,Seda,XXL,118,0
+70,Mikina bez kapsy,Seda,L,30,1
+71,Mikina s logem,Zelena,S,67,1
+72,Mikina bez kapuce,Bila,XL,30,0
+73,Mikina bez kapuce,Fialova,S,26,1
+74,Tricko s dlouhym rukavem,Cerna,L,23,1
+75,Tricko s potiskem,Zelena,M,33,1
+76,Tricko s dlouhym rukavem,Seda,L,27,1
+77,Tricko s logem,Zluta,M,45,1
+78,Mikina bez kapuce,Fialova,M,128,1
+79,Mikina s kapuci,Oranzova,S,116,0
+80,Mikina bez kapuce,Zluta,XXL,141,0
+81,Tricko s dlouhym rukavem,Fialova,M,48,0
+82,Tricko s dlouhym rukavem,Oranzova,S,81,1
+83,Mikina bez kapuce,Bila,XL,110,0
+84,Mikina s kapuci,Bila,XL,109,0
+85,Tricko s logem,Oranzova,XXL,30,1
+86,Mikina bez kapsy,Oranzova,L,48,1
+87,Tricko s potiskem,Zluta,M,107,1
+88,Tricko s logem,Zelena,XXL,125,1
+89,Tricko s dlouhym rukavem,Zelena,L,81,0
+90,Mikina bez kapuce,Seda,L,40,1
+91,Tricko s dlouhym rukavem,Zluta,L,48,0
+92,Mikina bez kapsy,Oranzova,S,22,0
+93,Tricko s potiskem,Oranzova,XXL,143,1
+94,Tricko s dlouhym rukavem,Fialova,M,23,1
+95,Mikina bez kapsy,Hneda,XXL,70,1
+96,Mikina s logem,Hneda,L,58,0
+97,Mikina s logem,Zluta,S,53,0
+98,Tricko s logem,Seda,XXL,134,0
+99,Tricko s logem,Bila,XL,116,0
+100,Mikina bez kapuce,Modra,L,106,0
